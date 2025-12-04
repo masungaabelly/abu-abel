@@ -3,3 +3,8 @@ numpy
 scikit-learn
 gradio
 joblib
+streamlit
+pandas
+numpy
+joblib
+scikit-learn==1.2.2   # replace with YOUR version
